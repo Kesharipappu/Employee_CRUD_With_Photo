@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "firstname": "Sadab",
+      "lastname": "Malik",
+      "birthdate": "1994-06-07",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Capgemini",
+      "jobExperience": 3,
+      "salary": 6,
+      "profile": "Sadab.jpg",
+      "id": 7
+    },
+    {
+      "firstname": "Ajeet",
+      "lastname": "Kumar",
+      "birthdate": "1994-06-12",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Microsoft",
+      "jobExperience": 5,
+      "salary": 8,
+      "profile": "Ajeet.jpg",
+      "id": 8
+    },
+    {
+      "firstname": "Md",
+      "lastname": "Taiyab",
+      "birthdate": "1995-06-12",
+      "gender": "m",
+      "education": "graduate",
+      "company": "MicroGenesis TechSoft Pvt Ltd",
+      "jobExperience": 2,
+      "salary": 6,
+      "profile": "Taiyab.jpg",
+      "id": 9
+    },
+    {
+      "firstname": "Rajat",
+      "lastname": "Kumar",
+      "birthdate": "1995-02-12",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Siemense",
+      "jobExperience": 2,
+      "salary": 15,
+      "profile": "Rajat.jpg",
+      "id": 10
+    },
+    {
+      "firstname": "Danish",
+      "lastname": "Khan",
+      "birthdate": "1995-06-06",
+      "gender": "m",
+      "education": "graduate",
+      "company": "MicroGenesis TechSoft Pvt Ltd",
+      "jobExperience": 2,
+      "salary": 7,
+      "profile": "Danish.jpg",
+      "id": 11
+    },
+    {
+      "firstname": "Ranjeet",
+      "lastname": "Kumar Keshari",
+      "birthdate": "1990-12-27",
+      "gender": "",
+      "education": "graduate",
+      "company": "Thebes Pharmaceuticals",
+      "jobExperience": 9,
+      "salary": 15,
+      "profile": "Ranjeet.jpg",
+      "id": 12
+    },
+    {
+      "firstname": "Pappu",
+      "lastname": "Kumar Keshari",
+      "birthdate": "1994-12-27",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "MicroGenesis TechSoft Pvt Ltd",
+      "jobExperience": 2,
+      "salary": 8,
+      "profile": "Pappu.jpg",
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
